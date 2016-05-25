@@ -1,0 +1,112 @@
+<template>
+  <div class="demo-list mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid">
+    <ul class="demo-list-icon mdl-list">
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Aaron Paul
+  </span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bob Odenkirk
+  </span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Aaron Paul
+  </span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Aaron Paul
+  </span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bob Odenkirk
+  </span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bob Odenkirk
+  </span>
+      </li>
+      <li class="mdl-list__item">
+    <span class="mdl-list__item-primary-content">
+    <i class="material-icons mdl-list__item-icon">person</i>
+    Bryan Cranston
+</span>
+      </li>
+    </ul>
+  </div>
+</template>
+
+<style>
+  .demo-list-icon {
+    width: 300px;
+  }
+</style>
+
+<script type="text/babel">
+  export default {
+    data () {
+      return {
+        msg: 'hello vue'
+      }
+    }
+  }
+</script>
